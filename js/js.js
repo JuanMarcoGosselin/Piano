@@ -197,7 +197,9 @@ let audioCtx = null;
         }
 
         async function loadAudioBuffer(samplePath) {
-            const safePath = "soundfonts/" + samplePath.replace(/#/g, '%23');
+            const safePath = "soundfonts/" + samplePath
+                .replace(/#/g, '%23')
+                .replace(/\\/g, '/'); 
             if (audioBuffers[safePath]) {
                 return audioBuffers[safePath];
             }
