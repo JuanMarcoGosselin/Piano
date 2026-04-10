@@ -1,0 +1,124 @@
+#caja-piano {
+    height: 300px;
+    width: auto;
+    background-image: linear-gradient(rgba(21, 0, 0, 0.723), rgba(47, 7, 0, 0.563)),
+    url(../img/madera.jpg);
+    background-size: cover;        
+    background-position: center;   
+    background-repeat: no-repeat;
+    padding: 35px;
+    margin: 0 auto;
+    box-shadow: 
+    inset 0 12px 25px rgba(0,0,0,0.9),
+    inset 0 -6px 12px rgba(0,0,0,0.2);
+    margin-top: -6px;
+    position: relative;
+    border-radius: 8px;
+}
+#teclado {
+    position: relative;
+    display: flex;
+    height: 243px; 
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 6px;
+    box-shadow: 
+        inset 0 8px 15px rgba(0,0,0,0.8),
+        inset 0 -4px 10px rgba(0,0,0,0.5),
+        inset 5px 0 10px rgba(0,0,0,0.6),
+        inset -5px 0 10px rgba(0,0,0,0.6);
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    margin-top: 30px;
+    border-radius: 8px;
+}
+.tecla-blanca {
+    width: 80px;
+    height: 230px;
+    background: linear-gradient(to bottom, #ffffff, #ccc);
+    border: 1px solid #222;
+    justify-content: center;
+    display: flex;
+    align-items: flex-end;
+    color : #555;
+    border-radius: 0 0 7px 7px;
+    padding-bottom: 10px;
+}
+.tecla-negra {
+    position :absolute; 
+    width: 42px;
+    height: 144px;
+    background: linear-gradient(90deg, #222, #000);
+    border-radius: 0 0 7px 7px;
+    color: #ccc;
+    justify-content: center;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 10px;
+    left: 200px;
+    box-shadow: 
+    -2px 0 5px rgba(0,0,0,0.3),
+    3px 0 5px rgba(0,0,0,0.5); 
+}
+.tecla-blanca-activada {
+    background: linear-gradient(to bottom, #ddd, #bbb);
+    color: #000000;
+    margin-top: 2px;
+}
+.tecla-negra-activada {
+    background: linear-gradient(to bottom, #222, #444);
+    color: #ffffff;
+    margin-top: 1px;
+}
+
+/*Sustain*/
+#sustain {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: 344px;
+    margin-top: -3px;
+}
+
+#sustain img{
+    height: 100%;
+    border-radius: 0 0 5px 0px;
+}
+
+#sustain.sustain-activado {
+    margin-top: 0px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: 344px;
+    filter: drop-shadow(0 0 4px #1b1b1b6c);
+    filter: brightness(0.6);
+    
+}
+.sustain-activado img{
+    height: 100%;
+
+    border-radius: 0 0 5px 5px;
+}
+
+
+#contenedorPerilla {
+    top: 10px;
+    left: 170px;
+
+    width: 44px;
+    height: 44px;
+}
+#perillaVolumen {
+    width: 37px;
+    height: 37px;
+}
+#indicador { 
+    height: 7px;
+    width: 7px;
+}
+#Volume {
+    display: none;
+}

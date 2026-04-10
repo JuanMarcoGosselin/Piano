@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="styles/926px.css" media="(max-width: 926px)">
+    <link rel="stylesheet" href="styles/726.css" media="(max-width: 726px)">
+    <title>Piano</title>
+</head>
+<body>
+    <main>
+       
+        <section>
+            <div id="caja-piano">
+                <div id="teclado">
+                    <div class="tecla-blanca" data-nota="60">a</div>
+                    <div class="tecla-negra" data-nota="61">w</div>
+                    <div class="tecla-blanca" data-nota="62">s</div>
+                    <div class="tecla-negra" data-nota="63">e</div>
+                    <div class="tecla-blanca" data-nota="64">d</div>
+                    <div class="tecla-blanca" data-nota="65">f</div>
+                    <div class="tecla-negra" data-nota="66">t</div>
+                    <div class="tecla-blanca" data-nota="67">g</div> 
+                    <div class="tecla-negra" data-nota="68">y</div>   
+                    <div class="tecla-blanca" data-nota="69">h</div>
+                    <div class="tecla-negra" data-nota="70">u</div>
+                    <div class="tecla-blanca" data-nota="71">j</div>
+                </div>
+                <div id="sustain">
+                    <img src="img/Sustain.png" alt="">
+                </div>
+                <div id="contenedorPerilla">
+                    <div id="perillaVolumen">
+                        <div id="indicador"></div>      
+                    </div>   
+                </div>
+                <h3 id="Volume">Volume</h3>
+            </div>
+        </section>
+        
+    </main>
+    <h2>Space for sustain</h2>
+    <section>
+        <div class="contenedor-cambio">
+            <div class="cambio" id="X">
+                <h2>X + 1</h2>
+            </div>
+            <div class="cambio" id="Z">
+                <h2>Z - 1</h2>
+            </div>
+        </div>
+
+    </section>
+    <script>
+        const teclado = document.querySelector('#teclado');
+        actualizarTeclas();
+        const observer = new ResizeObserver(() => {
+            actualizarTeclas();
+        });
+        observer.observe(teclado);
+
+        function actualizarTeclas() {
+            let anchoBlanca = document.querySelector('.tecla-blanca').offsetWidth;
+            let anchoNegra = document.querySelector('.tecla-negra').offsetWidth;
+            const posicion = []
+            
+            for (let i = 0; i < 12; i++) {
+                posicion[i] = (anchoBlanca * (i) - anchoNegra/2) + 3 + "px";
+            }
+            const posicionesNegras =
+            {
+                61 : posicion[1],
+                63 : posicion[2],
+                66 : posicion[4], 
+                68 : posicion[5], 
+                70 : posicion[6],
+            }
+            teclasNegras = document.querySelectorAll('.tecla-negra');
+            for (const tecla of teclasNegras) {
+                const nota = parseInt(tecla.dataset.nota)
+                tecla.style.left = posicionesNegras[nota];
+            }
+        }
+        
+    </script>
+    <script src="js/js.js"></script>
+    <script src="js/perillaVolumen.js"></script>
+    <script src="js/cambioOctavas.js"></script>
+</body>
+</html>
