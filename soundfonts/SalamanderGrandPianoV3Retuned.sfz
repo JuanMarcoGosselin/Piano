@@ -41,38 +41,38 @@
 <region> sample=44.1khz16bit\C1v14.wav lokey=23 hikey=25 lovel=105 hivel=112 pitch_keycenter=24 tune=13
 <region> sample=44.1khz16bit\C1v15.wav lokey=23 hikey=25 lovel=113 hivel=120 pitch_keycenter=24 tune=13
 <region> sample=44.1khz16bit\C1v16.wav lokey=23 hikey=25 lovel=121 pitch_keycenter=24 tune=13
-<region> sample=44.1khz16bit\D#1v1.wav lokey=26 hikey=28 lovel=1 hivel=26 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v2.wav lokey=26 hikey=28 lovel=27 hivel=34 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v3.wav lokey=26 hikey=28 lovel=35 hivel=36 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v4.wav lokey=26 hikey=28 lovel=37 hivel=43 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v5.wav lokey=26 hikey=28 lovel=44 hivel=46 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v6.wav lokey=26 hikey=28 lovel=47 hivel=50 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v7.wav lokey=26 hikey=28 lovel=51 hivel=56 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v8.wav lokey=26 hikey=28 lovel=57 hivel=64 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v9.wav lokey=26 hikey=28 lovel=65 hivel=72 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v10.wav lokey=26 hikey=28 lovel=73 hivel=80 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v11.wav lokey=26 hikey=28 lovel=81 hivel=88 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v12.wav lokey=26 hikey=28 lovel=89 hivel=96 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v13.wav lokey=26 hikey=28 lovel=97 hivel=104 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v14.wav lokey=26 hikey=28 lovel=105 hivel=112 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v15.wav lokey=26 hikey=28 lovel=113 hivel=120 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\D#1v16.wav lokey=26 hikey=28 lovel=121 pitch_keycenter=27 tune=11
-<region> sample=44.1khz16bit\F#1v1.wav lokey=29 hikey=31 lovel=1 hivel=26 pitch_keycenter=30 tune=-3
-<region> sample=44.1khz16bit\F#1v2.wav lokey=29 hikey=31 lovel=27 hivel=34 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v3.wav lokey=29 hikey=31 lovel=35 hivel=36 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v4.wav lokey=29 hikey=31 lovel=37 hivel=43 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v5.wav lokey=29 hikey=31 lovel=44 hivel=46 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v6.wav lokey=29 hikey=31 lovel=47 hivel=50 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v7.wav lokey=29 hikey=31 lovel=51 hivel=56 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v8.wav lokey=29 hikey=31 lovel=57 hivel=64 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v9.wav lokey=29 hikey=31 lovel=65 hivel=72 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v10.wav lokey=29 hikey=31 lovel=73 hivel=80 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v11.wav lokey=29 hikey=31 lovel=81 hivel=88 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v12.wav lokey=29 hikey=31 lovel=89 hivel=96 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v13.wav lokey=29 hikey=31 lovel=97 hivel=104 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v14.wav lokey=29 hikey=31 lovel=105 hivel=112 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v15.wav lokey=29 hikey=31 lovel=113 hivel=120 pitch_keycenter=30 tune=-3 
-<region> sample=44.1khz16bit\F#1v16.wav lokey=29 hikey=31 lovel=121 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Ds1v1.wav lokey=26 hikey=28 lovel=1 hivel=26 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v2.wav lokey=26 hikey=28 lovel=27 hivel=34 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v3.wav lokey=26 hikey=28 lovel=35 hivel=36 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v4.wav lokey=26 hikey=28 lovel=37 hivel=43 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v5.wav lokey=26 hikey=28 lovel=44 hivel=46 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v6.wav lokey=26 hikey=28 lovel=47 hivel=50 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v7.wav lokey=26 hikey=28 lovel=51 hivel=56 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v8.wav lokey=26 hikey=28 lovel=57 hivel=64 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v9.wav lokey=26 hikey=28 lovel=65 hivel=72 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v10.wav lokey=26 hikey=28 lovel=73 hivel=80 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v11.wav lokey=26 hikey=28 lovel=81 hivel=88 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v12.wav lokey=26 hikey=28 lovel=89 hivel=96 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v13.wav lokey=26 hikey=28 lovel=97 hivel=104 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v14.wav lokey=26 hikey=28 lovel=105 hivel=112 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v15.wav lokey=26 hikey=28 lovel=113 hivel=120 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Ds1v16.wav lokey=26 hikey=28 lovel=121 pitch_keycenter=27 tune=11
+<region> sample=44.1khz16bit\Fs1v1.wav lokey=29 hikey=31 lovel=1 hivel=26 pitch_keycenter=30 tune=-3
+<region> sample=44.1khz16bit\Fs1v2.wav lokey=29 hikey=31 lovel=27 hivel=34 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v3.wav lokey=29 hikey=31 lovel=35 hivel=36 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v4.wav lokey=29 hikey=31 lovel=37 hivel=43 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v5.wav lokey=29 hikey=31 lovel=44 hivel=46 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v6.wav lokey=29 hikey=31 lovel=47 hivel=50 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v7.wav lokey=29 hikey=31 lovel=51 hivel=56 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v8.wav lokey=29 hikey=31 lovel=57 hivel=64 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v9.wav lokey=29 hikey=31 lovel=65 hivel=72 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v10.wav lokey=29 hikey=31 lovel=73 hivel=80 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v11.wav lokey=29 hikey=31 lovel=81 hivel=88 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v12.wav lokey=29 hikey=31 lovel=89 hivel=96 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v13.wav lokey=29 hikey=31 lovel=97 hivel=104 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v14.wav lokey=29 hikey=31 lovel=105 hivel=112 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v15.wav lokey=29 hikey=31 lovel=113 hivel=120 pitch_keycenter=30 tune=-3 
+<region> sample=44.1khz16bit\Fs1v16.wav lokey=29 hikey=31 lovel=121 pitch_keycenter=30 tune=-3 
 <region> sample=44.1khz16bit\A1v1.wav lokey=32 hikey=34 lovel=1 hivel=26 pitch_keycenter=33 tune=-9 
 <region> sample=44.1khz16bit\A1v2.wav lokey=32 hikey=34 lovel=27 hivel=34 pitch_keycenter=33 tune=-9 
 <region> sample=44.1khz16bit\A1v3.wav lokey=32 hikey=34 lovel=35 hivel=36 pitch_keycenter=33 tune=-9 
@@ -105,38 +105,38 @@
 <region> sample=44.1khz16bit\C2v14.wav lokey=35 hikey=37 lovel=105 hivel=112 pitch_keycenter=36 tune=-9 
 <region> sample=44.1khz16bit\C2v15.wav lokey=35 hikey=37 lovel=113 hivel=120 pitch_keycenter=36 tune=-9 
 <region> sample=44.1khz16bit\C2v16.wav lokey=35 hikey=37 lovel=121 pitch_keycenter=36 tune=-9 
-<region> sample=44.1khz16bit\D#2v1.wav lokey=38 hikey=40 lovel=1 hivel=26 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v2.wav lokey=38 hikey=40 lovel=27 hivel=34 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v3.wav lokey=38 hikey=40 lovel=35 hivel=36 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v4.wav lokey=38 hikey=40 lovel=37 hivel=43 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v5.wav lokey=38 hikey=40 lovel=44 hivel=46 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v6.wav lokey=38 hikey=40 lovel=47 hivel=50 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v7.wav lokey=38 hikey=40 lovel=51 hivel=56 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v8.wav lokey=38 hikey=40 lovel=57 hivel=64 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v9.wav lokey=38 hikey=40 lovel=65 hivel=72 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v10.wav lokey=38 hikey=40 lovel=73 hivel=80 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v11.wav lokey=38 hikey=40 lovel=81 hivel=88 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v12.wav lokey=38 hikey=40 lovel=89 hivel=96 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v13.wav lokey=38 hikey=40 lovel=97 hivel=104 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v14.wav lokey=38 hikey=40 lovel=105 hivel=112 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v15.wav lokey=38 hikey=40 lovel=113 hivel=120 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\D#2v16.wav lokey=38 hikey=40 lovel=121 pitch_keycenter=39 tune=-11 
-<region> sample=44.1khz16bit\F#2v1.wav lokey=41 hikey=43 lovel=1 hivel=26 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v2.wav lokey=41 hikey=43 lovel=27 hivel=34 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v3.wav lokey=41 hikey=43 lovel=35 hivel=36 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v4.wav lokey=41 hikey=43 lovel=37 hivel=43 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v5.wav lokey=41 hikey=43 lovel=44 hivel=46 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v6.wav lokey=41 hikey=43 lovel=47 hivel=50 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v7.wav lokey=41 hikey=43 lovel=51 hivel=56 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v8.wav lokey=41 hikey=43 lovel=57 hivel=64 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v9.wav lokey=41 hikey=43 lovel=65 hivel=72 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v10.wav lokey=41 hikey=43 lovel=73 hivel=80 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v11.wav lokey=41 hikey=43 lovel=81 hivel=88 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v12.wav lokey=41 hikey=43 lovel=89 hivel=96 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v13.wav lokey=41 hikey=43 lovel=97 hivel=104 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v14.wav lokey=41 hikey=43 lovel=105 hivel=112 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v15.wav lokey=41 hikey=43 lovel=113 hivel=120 pitch_keycenter=42 tune=-7 
-<region> sample=44.1khz16bit\F#2v16.wav lokey=41 hikey=43 lovel=121 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Ds2v1.wav lokey=38 hikey=40 lovel=1 hivel=26 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v2.wav lokey=38 hikey=40 lovel=27 hivel=34 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v3.wav lokey=38 hikey=40 lovel=35 hivel=36 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v4.wav lokey=38 hikey=40 lovel=37 hivel=43 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v5.wav lokey=38 hikey=40 lovel=44 hivel=46 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v6.wav lokey=38 hikey=40 lovel=47 hivel=50 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v7.wav lokey=38 hikey=40 lovel=51 hivel=56 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v8.wav lokey=38 hikey=40 lovel=57 hivel=64 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v9.wav lokey=38 hikey=40 lovel=65 hivel=72 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v10.wav lokey=38 hikey=40 lovel=73 hivel=80 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v11.wav lokey=38 hikey=40 lovel=81 hivel=88 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v12.wav lokey=38 hikey=40 lovel=89 hivel=96 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v13.wav lokey=38 hikey=40 lovel=97 hivel=104 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v14.wav lokey=38 hikey=40 lovel=105 hivel=112 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v15.wav lokey=38 hikey=40 lovel=113 hivel=120 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Ds2v16.wav lokey=38 hikey=40 lovel=121 pitch_keycenter=39 tune=-11 
+<region> sample=44.1khz16bit\Fs2v1.wav lokey=41 hikey=43 lovel=1 hivel=26 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v2.wav lokey=41 hikey=43 lovel=27 hivel=34 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v3.wav lokey=41 hikey=43 lovel=35 hivel=36 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v4.wav lokey=41 hikey=43 lovel=37 hivel=43 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v5.wav lokey=41 hikey=43 lovel=44 hivel=46 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v6.wav lokey=41 hikey=43 lovel=47 hivel=50 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v7.wav lokey=41 hikey=43 lovel=51 hivel=56 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v8.wav lokey=41 hikey=43 lovel=57 hivel=64 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v9.wav lokey=41 hikey=43 lovel=65 hivel=72 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v10.wav lokey=41 hikey=43 lovel=73 hivel=80 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v11.wav lokey=41 hikey=43 lovel=81 hivel=88 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v12.wav lokey=41 hikey=43 lovel=89 hivel=96 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v13.wav lokey=41 hikey=43 lovel=97 hivel=104 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v14.wav lokey=41 hikey=43 lovel=105 hivel=112 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v15.wav lokey=41 hikey=43 lovel=113 hivel=120 pitch_keycenter=42 tune=-7 
+<region> sample=44.1khz16bit\Fs2v16.wav lokey=41 hikey=43 lovel=121 pitch_keycenter=42 tune=-7 
 <region> sample=44.1khz16bit\A2v1.wav lokey=44 hikey=46 lovel=1 hivel=26 pitch_keycenter=45 tune=-4 
 <region> sample=44.1khz16bit\A2v2.wav lokey=44 hikey=46 lovel=27 hivel=34 pitch_keycenter=45 tune=-4 
 <region> sample=44.1khz16bit\A2v3.wav lokey=44 hikey=46 lovel=35 hivel=36 pitch_keycenter=45 tune=-4 
@@ -169,38 +169,38 @@
 <region> sample=44.1khz16bit\C3v14.wav lokey=47 hikey=49 lovel=105 hivel=112 pitch_keycenter=48 
 <region> sample=44.1khz16bit\C3v15.wav lokey=47 hikey=49 lovel=113 hivel=120 pitch_keycenter=48 
 <region> sample=44.1khz16bit\C3v16.wav lokey=47 hikey=49 lovel=121 pitch_keycenter=48 
-<region> sample=44.1khz16bit\D#3v1.wav lokey=50 hikey=52 lovel=1 hivel=26 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v2.wav lokey=50 hikey=52 lovel=27 hivel=34 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v3.wav lokey=50 hikey=52 lovel=35 hivel=36 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v4.wav lokey=50 hikey=52 lovel=37 hivel=43 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v5.wav lokey=50 hikey=52 lovel=44 hivel=46 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v6.wav lokey=50 hikey=52 lovel=47 hivel=50 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v7.wav lokey=50 hikey=52 lovel=51 hivel=56 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v8.wav lokey=50 hikey=52 lovel=57 hivel=64 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v9.wav lokey=50 hikey=52 lovel=65 hivel=72 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v10.wav lokey=50 hikey=52 lovel=73 hivel=80 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v11.wav lokey=50 hikey=52 lovel=81 hivel=88 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v12.wav lokey=50 hikey=52 lovel=89 hivel=96 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v13.wav lokey=50 hikey=52 lovel=97 hivel=104 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v14.wav lokey=50 hikey=52 lovel=105 hivel=112 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v15.wav lokey=50 hikey=52 lovel=113 hivel=120 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\D#3v16.wav lokey=50 hikey=52 lovel=121 pitch_keycenter=51 tune=-6 
-<region> sample=44.1khz16bit\F#3v1.wav lokey=53 hikey=55 lovel=1 hivel=26 pitch_keycenter=54 tune=-3  
-<region> sample=44.1khz16bit\F#3v2.wav lokey=53 hikey=55 lovel=27 hivel=34 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v3.wav lokey=53 hikey=55 lovel=35 hivel=36 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v4.wav lokey=53 hikey=55 lovel=37 hivel=43 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v5.wav lokey=53 hikey=55 lovel=44 hivel=46 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v6.wav lokey=53 hikey=55 lovel=47 hivel=50 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v7.wav lokey=53 hikey=55 lovel=51 hivel=56 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v8.wav lokey=53 hikey=55 lovel=57 hivel=64 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v9.wav lokey=53 hikey=55 lovel=65 hivel=72 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v10.wav lokey=53 hikey=55 lovel=73 hivel=80 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v11.wav lokey=53 hikey=55 lovel=81 hivel=88 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v12.wav lokey=53 hikey=55 lovel=89 hivel=96 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v13.wav lokey=53 hikey=55 lovel=97 hivel=104 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v14.wav lokey=53 hikey=55 lovel=105 hivel=112 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v15.wav lokey=53 hikey=55 lovel=113 hivel=120 pitch_keycenter=54 tune=-3 
-<region> sample=44.1khz16bit\F#3v16.wav lokey=53 hikey=55 lovel=121 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Ds3v1.wav lokey=50 hikey=52 lovel=1 hivel=26 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v2.wav lokey=50 hikey=52 lovel=27 hivel=34 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v3.wav lokey=50 hikey=52 lovel=35 hivel=36 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v4.wav lokey=50 hikey=52 lovel=37 hivel=43 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v5.wav lokey=50 hikey=52 lovel=44 hivel=46 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v6.wav lokey=50 hikey=52 lovel=47 hivel=50 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v7.wav lokey=50 hikey=52 lovel=51 hivel=56 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v8.wav lokey=50 hikey=52 lovel=57 hivel=64 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v9.wav lokey=50 hikey=52 lovel=65 hivel=72 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v10.wav lokey=50 hikey=52 lovel=73 hivel=80 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v11.wav lokey=50 hikey=52 lovel=81 hivel=88 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v12.wav lokey=50 hikey=52 lovel=89 hivel=96 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v13.wav lokey=50 hikey=52 lovel=97 hivel=104 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v14.wav lokey=50 hikey=52 lovel=105 hivel=112 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v15.wav lokey=50 hikey=52 lovel=113 hivel=120 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Ds3v16.wav lokey=50 hikey=52 lovel=121 pitch_keycenter=51 tune=-6 
+<region> sample=44.1khz16bit\Fs3v1.wav lokey=53 hikey=55 lovel=1 hivel=26 pitch_keycenter=54 tune=-3  
+<region> sample=44.1khz16bit\Fs3v2.wav lokey=53 hikey=55 lovel=27 hivel=34 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v3.wav lokey=53 hikey=55 lovel=35 hivel=36 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v4.wav lokey=53 hikey=55 lovel=37 hivel=43 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v5.wav lokey=53 hikey=55 lovel=44 hivel=46 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v6.wav lokey=53 hikey=55 lovel=47 hivel=50 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v7.wav lokey=53 hikey=55 lovel=51 hivel=56 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v8.wav lokey=53 hikey=55 lovel=57 hivel=64 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v9.wav lokey=53 hikey=55 lovel=65 hivel=72 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v10.wav lokey=53 hikey=55 lovel=73 hivel=80 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v11.wav lokey=53 hikey=55 lovel=81 hivel=88 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v12.wav lokey=53 hikey=55 lovel=89 hivel=96 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v13.wav lokey=53 hikey=55 lovel=97 hivel=104 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v14.wav lokey=53 hikey=55 lovel=105 hivel=112 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v15.wav lokey=53 hikey=55 lovel=113 hivel=120 pitch_keycenter=54 tune=-3 
+<region> sample=44.1khz16bit\Fs3v16.wav lokey=53 hikey=55 lovel=121 pitch_keycenter=54 tune=-3 
 <region> sample=44.1khz16bit\A3v1.wav lokey=56 hikey=58 lovel=1 hivel=26 pitch_keycenter=57 tune=-3 
 <region> sample=44.1khz16bit\A3v2.wav lokey=56 hikey=58 lovel=27 hivel=34 pitch_keycenter=57 tune=-3 
 <region> sample=44.1khz16bit\A3v3.wav lokey=56 hikey=58 lovel=35 hivel=36 pitch_keycenter=57 tune=-3 
@@ -233,38 +233,38 @@
 <region> sample=44.1khz16bit\C4v14.wav lokey=59 hikey=61 lovel=105 hivel=112 tune=-6 
 <region> sample=44.1khz16bit\C4v15.wav lokey=59 hikey=61 lovel=113 hivel=120 tune=-6 
 <region> sample=44.1khz16bit\C4v16.wav lokey=59 hikey=61 lovel=121 tune=-6      
-<region> sample=44.1khz16bit\D#4v1.wav lokey=62 hikey=64 lovel=1 hivel=26 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v2.wav lokey=62 hikey=64 lovel=27 hivel=34 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v3.wav lokey=62 hikey=64 lovel=35 hivel=36 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v4.wav lokey=62 hikey=64 lovel=37 hivel=43 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v5.wav lokey=62 hikey=64 lovel=44 hivel=46 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v6.wav lokey=62 hikey=64 lovel=47 hivel=50 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v7.wav lokey=62 hikey=64 lovel=51 hivel=56 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v8.wav lokey=62 hikey=64 lovel=57 hivel=64 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v9.wav lokey=62 hikey=64 lovel=65 hivel=72 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v10.wav lokey=62 hikey=64 lovel=73 hivel=80 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v11.wav lokey=62 hikey=64 lovel=81 hivel=88 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v12.wav lokey=62 hikey=64 lovel=89 hivel=96 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v13.wav lokey=62 hikey=64 lovel=97 hivel=104 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v14.wav lokey=62 hikey=64 lovel=105 hivel=112 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v15.wav lokey=62 hikey=64 lovel=113 hivel=120 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\D#4v16.wav lokey=62 hikey=64 lovel=121 pitch_keycenter=63 tune=-3 
-<region> sample=44.1khz16bit\F#4v1.wav lokey=65 hikey=67 lovel=1 hivel=26 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v2.wav lokey=65 hikey=67 lovel=27 hivel=34 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v3.wav lokey=65 hikey=67 lovel=35 hivel=36 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v4.wav lokey=65 hikey=67 lovel=37 hivel=43 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v5.wav lokey=65 hikey=67 lovel=44 hivel=46 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v6.wav lokey=65 hikey=67 lovel=47 hivel=50 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v7.wav lokey=65 hikey=67 lovel=51 hivel=56 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v8.wav lokey=65 hikey=67 lovel=57 hivel=64 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v9.wav lokey=65 hikey=67 lovel=65 hivel=72 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v10.wav lokey=65 hikey=67 lovel=73 hivel=80 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v11.wav lokey=65 hikey=67 lovel=81 hivel=88 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v12.wav lokey=65 hikey=67 lovel=89 hivel=96 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v13.wav lokey=65 hikey=67 lovel=97 hivel=104 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v14.wav lokey=65 hikey=67 lovel=105 hivel=112 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v15.wav lokey=65 hikey=67 lovel=113 hivel=120 pitch_keycenter=66 
-<region> sample=44.1khz16bit\F#4v16.wav lokey=65 hikey=67 lovel=121 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Ds4v1.wav lokey=62 hikey=64 lovel=1 hivel=26 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v2.wav lokey=62 hikey=64 lovel=27 hivel=34 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v3.wav lokey=62 hikey=64 lovel=35 hivel=36 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v4.wav lokey=62 hikey=64 lovel=37 hivel=43 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v5.wav lokey=62 hikey=64 lovel=44 hivel=46 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v6.wav lokey=62 hikey=64 lovel=47 hivel=50 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v7.wav lokey=62 hikey=64 lovel=51 hivel=56 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v8.wav lokey=62 hikey=64 lovel=57 hivel=64 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v9.wav lokey=62 hikey=64 lovel=65 hivel=72 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v10.wav lokey=62 hikey=64 lovel=73 hivel=80 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v11.wav lokey=62 hikey=64 lovel=81 hivel=88 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v12.wav lokey=62 hikey=64 lovel=89 hivel=96 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v13.wav lokey=62 hikey=64 lovel=97 hivel=104 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v14.wav lokey=62 hikey=64 lovel=105 hivel=112 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v15.wav lokey=62 hikey=64 lovel=113 hivel=120 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Ds4v16.wav lokey=62 hikey=64 lovel=121 pitch_keycenter=63 tune=-3 
+<region> sample=44.1khz16bit\Fs4v1.wav lokey=65 hikey=67 lovel=1 hivel=26 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v2.wav lokey=65 hikey=67 lovel=27 hivel=34 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v3.wav lokey=65 hikey=67 lovel=35 hivel=36 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v4.wav lokey=65 hikey=67 lovel=37 hivel=43 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v5.wav lokey=65 hikey=67 lovel=44 hivel=46 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v6.wav lokey=65 hikey=67 lovel=47 hivel=50 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v7.wav lokey=65 hikey=67 lovel=51 hivel=56 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v8.wav lokey=65 hikey=67 lovel=57 hivel=64 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v9.wav lokey=65 hikey=67 lovel=65 hivel=72 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v10.wav lokey=65 hikey=67 lovel=73 hivel=80 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v11.wav lokey=65 hikey=67 lovel=81 hivel=88 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v12.wav lokey=65 hikey=67 lovel=89 hivel=96 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v13.wav lokey=65 hikey=67 lovel=97 hivel=104 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v14.wav lokey=65 hikey=67 lovel=105 hivel=112 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v15.wav lokey=65 hikey=67 lovel=113 hivel=120 pitch_keycenter=66 
+<region> sample=44.1khz16bit\Fs4v16.wav lokey=65 hikey=67 lovel=121 pitch_keycenter=66 
 <region> sample=44.1khz16bit\A4v1.wav lokey=68 hikey=70 lovel=1 hivel=26 pitch_keycenter=69 tune=-4 
 <region> sample=44.1khz16bit\A4v2.wav lokey=68 hikey=70 lovel=27 hivel=34 pitch_keycenter=69 tune=-4 
 <region> sample=44.1khz16bit\A4v3.wav lokey=68 hikey=70 lovel=35 hivel=36 pitch_keycenter=69 tune=-4 
@@ -297,38 +297,38 @@
 <region> sample=44.1khz16bit\C5v14.wav lokey=71 hikey=73 lovel=105 hivel=112 pitch_keycenter=72 tune=-8 
 <region> sample=44.1khz16bit\C5v15.wav lokey=71 hikey=73 lovel=113 hivel=120 pitch_keycenter=72 tune=-8 
 <region> sample=44.1khz16bit\C5v16.wav lokey=71 hikey=73 lovel=121 pitch_keycenter=72 tune=-8 
-<region> sample=44.1khz16bit\D#5v1.wav lokey=74 hikey=76 lovel=1 hivel=26 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v2.wav lokey=74 hikey=76 lovel=27 hivel=34 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v3.wav lokey=74 hikey=76 lovel=35 hivel=36 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v4.wav lokey=74 hikey=76 lovel=37 hivel=43 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v5.wav lokey=74 hikey=76 lovel=44 hivel=46 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v6.wav lokey=74 hikey=76 lovel=47 hivel=50 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v7.wav lokey=74 hikey=76 lovel=51 hivel=56 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v8.wav lokey=74 hikey=76 lovel=57 hivel=64 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v9.wav lokey=74 hikey=76 lovel=65 hivel=72 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v10.wav lokey=74 hikey=76 lovel=73 hivel=80 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v11.wav lokey=74 hikey=76 lovel=81 hivel=88 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v12.wav lokey=74 hikey=76 lovel=89 hivel=96 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v13.wav lokey=74 hikey=76 lovel=97 hivel=104 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v14.wav lokey=74 hikey=76 lovel=105 hivel=112 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v15.wav lokey=74 hikey=76 lovel=113 hivel=120 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\D#5v16.wav lokey=74 hikey=76 lovel=121 pitch_keycenter=75 tune=-8 
-<region> sample=44.1khz16bit\F#5v1.wav lokey=77 hikey=79 lovel=1 hivel=26 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v2.wav lokey=77 hikey=79 lovel=27 hivel=34 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v3.wav lokey=77 hikey=79 lovel=35 hivel=36 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v4.wav lokey=77 hikey=79 lovel=37 hivel=43 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v5.wav lokey=77 hikey=79 lovel=44 hivel=46 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v6.wav lokey=77 hikey=79 lovel=47 hivel=50 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v7.wav lokey=77 hikey=79 lovel=51 hivel=56 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v8.wav lokey=77 hikey=79 lovel=57 hivel=64 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v9.wav lokey=77 hikey=79 lovel=65 hivel=72 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v10.wav lokey=77 hikey=79 lovel=73 hivel=80 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v11.wav lokey=77 hikey=79 lovel=81 hivel=88 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v12.wav lokey=77 hikey=79 lovel=89 hivel=96 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v13.wav lokey=77 hikey=79 lovel=97 hivel=104 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v14.wav lokey=77 hikey=79 lovel=105 hivel=112 pitch_keycenter=78 tune=-5 
-<region> sample=44.1khz16bit\F#5v15.wav lokey=77 hikey=79 lovel=113 hivel=120 pitch_keycenter=78 tune=-5
-<region> sample=44.1khz16bit\F#5v16.wav lokey=77 hikey=79 lovel=121 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Ds5v1.wav lokey=74 hikey=76 lovel=1 hivel=26 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v2.wav lokey=74 hikey=76 lovel=27 hivel=34 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v3.wav lokey=74 hikey=76 lovel=35 hivel=36 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v4.wav lokey=74 hikey=76 lovel=37 hivel=43 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v5.wav lokey=74 hikey=76 lovel=44 hivel=46 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v6.wav lokey=74 hikey=76 lovel=47 hivel=50 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v7.wav lokey=74 hikey=76 lovel=51 hivel=56 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v8.wav lokey=74 hikey=76 lovel=57 hivel=64 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v9.wav lokey=74 hikey=76 lovel=65 hivel=72 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v10.wav lokey=74 hikey=76 lovel=73 hivel=80 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v11.wav lokey=74 hikey=76 lovel=81 hivel=88 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v12.wav lokey=74 hikey=76 lovel=89 hivel=96 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v13.wav lokey=74 hikey=76 lovel=97 hivel=104 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v14.wav lokey=74 hikey=76 lovel=105 hivel=112 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v15.wav lokey=74 hikey=76 lovel=113 hivel=120 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Ds5v16.wav lokey=74 hikey=76 lovel=121 pitch_keycenter=75 tune=-8 
+<region> sample=44.1khz16bit\Fs5v1.wav lokey=77 hikey=79 lovel=1 hivel=26 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v2.wav lokey=77 hikey=79 lovel=27 hivel=34 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v3.wav lokey=77 hikey=79 lovel=35 hivel=36 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v4.wav lokey=77 hikey=79 lovel=37 hivel=43 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v5.wav lokey=77 hikey=79 lovel=44 hivel=46 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v6.wav lokey=77 hikey=79 lovel=47 hivel=50 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v7.wav lokey=77 hikey=79 lovel=51 hivel=56 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v8.wav lokey=77 hikey=79 lovel=57 hivel=64 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v9.wav lokey=77 hikey=79 lovel=65 hivel=72 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v10.wav lokey=77 hikey=79 lovel=73 hivel=80 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v11.wav lokey=77 hikey=79 lovel=81 hivel=88 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v12.wav lokey=77 hikey=79 lovel=89 hivel=96 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v13.wav lokey=77 hikey=79 lovel=97 hivel=104 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v14.wav lokey=77 hikey=79 lovel=105 hivel=112 pitch_keycenter=78 tune=-5 
+<region> sample=44.1khz16bit\Fs5v15.wav lokey=77 hikey=79 lovel=113 hivel=120 pitch_keycenter=78 tune=-5
+<region> sample=44.1khz16bit\Fs5v16.wav lokey=77 hikey=79 lovel=121 pitch_keycenter=78 tune=-5 
 <region> sample=44.1khz16bit\A5v1.wav lokey=80 hikey=82 lovel=1 hivel=26 pitch_keycenter=81 tune=-7 
 <region> sample=44.1khz16bit\A5v2.wav lokey=80 hikey=82 lovel=27 hivel=34 pitch_keycenter=81 tune=-7 
 <region> sample=44.1khz16bit\A5v3.wav lokey=80 hikey=82 lovel=35 hivel=36 pitch_keycenter=81 tune=-7 
@@ -361,42 +361,42 @@
 <region> sample=44.1khz16bit\C6v14.wav lokey=83 hikey=85 lovel=105 hivel=112 pitch_keycenter=84 tune=-8 
 <region> sample=44.1khz16bit\C6v15.wav lokey=83 hikey=85 lovel=113 hivel=120 pitch_keycenter=84 tune=-8 
 <region> sample=44.1khz16bit\C6v16.wav lokey=83 hikey=85 lovel=121 pitch_keycenter=84 tune=-8 
-<region> sample=44.1khz16bit\D#6v1.wav lokey=86 hikey=88 lovel=1 hivel=26 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v2.wav lokey=86 hikey=88 lovel=27 hivel=34 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v3.wav lokey=86 hikey=88 lovel=35 hivel=36 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v4.wav lokey=86 hikey=88 lovel=37 hivel=43 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v5.wav lokey=86 hikey=88 lovel=44 hivel=46 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v6.wav lokey=86 hikey=88 lovel=47 hivel=50 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v7.wav lokey=86 hikey=88 lovel=51 hivel=56 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v8.wav lokey=86 hikey=88 lovel=57 hivel=64 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v9.wav lokey=86 hikey=88 lovel=65 hivel=72 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v10.wav lokey=86 hikey=88 lovel=73 hivel=80 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v11.wav lokey=86 hikey=88 lovel=81 hivel=88 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v12.wav lokey=86 hikey=88 lovel=89 hivel=96 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v13.wav lokey=86 hikey=88 lovel=97 hivel=104 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v14.wav lokey=86 hikey=88 lovel=105 hivel=112 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v15.wav lokey=86 hikey=88 lovel=113 hivel=120 pitch_keycenter=87 tune=-12 
-<region> sample=44.1khz16bit\D#6v16.wav lokey=86 hikey=88 lovel=121 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v1.wav lokey=86 hikey=88 lovel=1 hivel=26 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v2.wav lokey=86 hikey=88 lovel=27 hivel=34 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v3.wav lokey=86 hikey=88 lovel=35 hivel=36 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v4.wav lokey=86 hikey=88 lovel=37 hivel=43 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v5.wav lokey=86 hikey=88 lovel=44 hivel=46 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v6.wav lokey=86 hikey=88 lovel=47 hivel=50 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v7.wav lokey=86 hikey=88 lovel=51 hivel=56 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v8.wav lokey=86 hikey=88 lovel=57 hivel=64 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v9.wav lokey=86 hikey=88 lovel=65 hivel=72 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v10.wav lokey=86 hikey=88 lovel=73 hivel=80 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v11.wav lokey=86 hikey=88 lovel=81 hivel=88 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v12.wav lokey=86 hikey=88 lovel=89 hivel=96 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v13.wav lokey=86 hikey=88 lovel=97 hivel=104 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v14.wav lokey=86 hikey=88 lovel=105 hivel=112 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v15.wav lokey=86 hikey=88 lovel=113 hivel=120 pitch_keycenter=87 tune=-12 
+<region> sample=44.1khz16bit\Ds6v16.wav lokey=86 hikey=88 lovel=121 pitch_keycenter=87 tune=-12 
 //========================
 //Notes without dampers
 <group> amp_veltrack=73 ampeg_release=5
 
-<region> sample=44.1khz16bit\F#6v1.wav lokey=89 hikey=91 lovel=1 hivel=26 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v2.wav lokey=89 hikey=91 lovel=27 hivel=34 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v3.wav lokey=89 hikey=91 lovel=35 hivel=36 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v4.wav lokey=89 hikey=91 lovel=37 hivel=43 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v5.wav lokey=89 hikey=91 lovel=44 hivel=46 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v6.wav lokey=89 hikey=91 lovel=47 hivel=50 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v7.wav lokey=89 hikey=91 lovel=51 hivel=56 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v8.wav lokey=89 hikey=91 lovel=57 hivel=64 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v9.wav lokey=89 hikey=91 lovel=65 hivel=72 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v10.wav lokey=89 hikey=91 lovel=73 hivel=80 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v11.wav lokey=89 hikey=91 lovel=81 hivel=88 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v12.wav lokey=89 hikey=91 lovel=89 hivel=96 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v13.wav lokey=89 hikey=91 lovel=97 hivel=104 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v14.wav lokey=89 hikey=91 lovel=105 hivel=112 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v15.wav lokey=89 hikey=91 lovel=113 hivel=120 pitch_keycenter=90 tune=-13 
-<region> sample=44.1khz16bit\F#6v16.wav lokey=89 hikey=91 lovel=121 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v1.wav lokey=89 hikey=91 lovel=1 hivel=26 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v2.wav lokey=89 hikey=91 lovel=27 hivel=34 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v3.wav lokey=89 hikey=91 lovel=35 hivel=36 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v4.wav lokey=89 hikey=91 lovel=37 hivel=43 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v5.wav lokey=89 hikey=91 lovel=44 hivel=46 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v6.wav lokey=89 hikey=91 lovel=47 hivel=50 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v7.wav lokey=89 hikey=91 lovel=51 hivel=56 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v8.wav lokey=89 hikey=91 lovel=57 hivel=64 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v9.wav lokey=89 hikey=91 lovel=65 hivel=72 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v10.wav lokey=89 hikey=91 lovel=73 hivel=80 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v11.wav lokey=89 hikey=91 lovel=81 hivel=88 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v12.wav lokey=89 hikey=91 lovel=89 hivel=96 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v13.wav lokey=89 hikey=91 lovel=97 hivel=104 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v14.wav lokey=89 hikey=91 lovel=105 hivel=112 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v15.wav lokey=89 hikey=91 lovel=113 hivel=120 pitch_keycenter=90 tune=-13 
+<region> sample=44.1khz16bit\Fs6v16.wav lokey=89 hikey=91 lovel=121 pitch_keycenter=90 tune=-13 
 <region> sample=44.1khz16bit\A6v1.wav lokey=92 hikey=94 lovel=1 hivel=26 pitch_keycenter=93 tune=-12 
 <region> sample=44.1khz16bit\A6v2.wav lokey=92 hikey=94 lovel=27 hivel=34 pitch_keycenter=93 tune=-12 
 <region> sample=44.1khz16bit\A6v3.wav lokey=92 hikey=94 lovel=35 hivel=36 pitch_keycenter=93 tune=-12 
@@ -429,38 +429,38 @@
 <region> sample=44.1khz16bit\C7v14.wav lokey=95 hikey=97 lovel=105 hivel=112 pitch_keycenter=96 tune=-17 
 <region> sample=44.1khz16bit\C7v15.wav lokey=95 hikey=97 lovel=113 hivel=120 pitch_keycenter=96 tune=-17 
 <region> sample=44.1khz16bit\C7v16.wav lokey=95 hikey=97 lovel=121 pitch_keycenter=96 tune=-17 
-<region> sample=44.1khz16bit\D#7v1.wav lokey=98 hikey=100 lovel=1 hivel=26 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v2.wav lokey=98 hikey=100 lovel=27 hivel=34 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v3.wav lokey=98 hikey=100 lovel=35 hivel=36 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v4.wav lokey=98 hikey=100 lovel=37 hivel=43 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v5.wav lokey=98 hikey=100 lovel=44 hivel=46 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v6.wav lokey=98 hikey=100 lovel=47 hivel=50 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v7.wav lokey=98 hikey=100 lovel=51 hivel=56 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v8.wav lokey=98 hikey=100 lovel=57 hivel=64 pitch_keycenter=99 tune=-17
-<region> sample=44.1khz16bit\D#7v9.wav lokey=98 hikey=100 lovel=65 hivel=72 pitch_keycenter=99  tune=-17 
-<region> sample=44.1khz16bit\D#7v10.wav lokey=98 hikey=100 lovel=73 hivel=80 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v11.wav lokey=98 hikey=100 lovel=81 hivel=88 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v12.wav lokey=98 hikey=100 lovel=89 hivel=96 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v13.wav lokey=98 hikey=100 lovel=97 hivel=104 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v14.wav lokey=98 hikey=100 lovel=105 hivel=112 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v15.wav lokey=98 hikey=100 lovel=113 hivel=120 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\D#7v16.wav lokey=98 hikey=100 lovel=121 pitch_keycenter=99 tune=-17 
-<region> sample=44.1khz16bit\F#7v1.wav lokey=101 hikey=103 lovel=1 hivel=26 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v2.wav lokey=101 hikey=103 lovel=27 hivel=34 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v3.wav lokey=101 hikey=103 lovel=35 hivel=36 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v4.wav lokey=101 hikey=103 lovel=37 hivel=43 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v5.wav lokey=101 hikey=103 lovel=44 hivel=46 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v6.wav lokey=101 hikey=103 lovel=47 hivel=50 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v7.wav lokey=101 hikey=103 lovel=51 hivel=56 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v8.wav lokey=101 hikey=103 lovel=57 hivel=64 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v9.wav lokey=101 hikey=103 lovel=65 hivel=72 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v10.wav lokey=101 hikey=103 lovel=73 hivel=80 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v11.wav lokey=101 hikey=103 lovel=81 hivel=88 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v12.wav lokey=101 hikey=103 lovel=89 hivel=96 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v13.wav lokey=101 hikey=103 lovel=97 hivel=104 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v14.wav lokey=101 hikey=103 lovel=105 hivel=112 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v15.wav lokey=101 hikey=103 lovel=113 hivel=120 pitch_keycenter=102 tune=-27 
-<region> sample=44.1khz16bit\F#7v16.wav lokey=101 hikey=103 lovel=121 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Ds7v1.wav lokey=98 hikey=100 lovel=1 hivel=26 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v2.wav lokey=98 hikey=100 lovel=27 hivel=34 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v3.wav lokey=98 hikey=100 lovel=35 hivel=36 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v4.wav lokey=98 hikey=100 lovel=37 hivel=43 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v5.wav lokey=98 hikey=100 lovel=44 hivel=46 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v6.wav lokey=98 hikey=100 lovel=47 hivel=50 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v7.wav lokey=98 hikey=100 lovel=51 hivel=56 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v8.wav lokey=98 hikey=100 lovel=57 hivel=64 pitch_keycenter=99 tune=-17
+<region> sample=44.1khz16bit\Ds7v9.wav lokey=98 hikey=100 lovel=65 hivel=72 pitch_keycenter=99  tune=-17 
+<region> sample=44.1khz16bit\Ds7v10.wav lokey=98 hikey=100 lovel=73 hivel=80 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v11.wav lokey=98 hikey=100 lovel=81 hivel=88 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v12.wav lokey=98 hikey=100 lovel=89 hivel=96 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v13.wav lokey=98 hikey=100 lovel=97 hivel=104 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v14.wav lokey=98 hikey=100 lovel=105 hivel=112 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v15.wav lokey=98 hikey=100 lovel=113 hivel=120 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Ds7v16.wav lokey=98 hikey=100 lovel=121 pitch_keycenter=99 tune=-17 
+<region> sample=44.1khz16bit\Fs7v1.wav lokey=101 hikey=103 lovel=1 hivel=26 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v2.wav lokey=101 hikey=103 lovel=27 hivel=34 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v3.wav lokey=101 hikey=103 lovel=35 hivel=36 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v4.wav lokey=101 hikey=103 lovel=37 hivel=43 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v5.wav lokey=101 hikey=103 lovel=44 hivel=46 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v6.wav lokey=101 hikey=103 lovel=47 hivel=50 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v7.wav lokey=101 hikey=103 lovel=51 hivel=56 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v8.wav lokey=101 hikey=103 lovel=57 hivel=64 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v9.wav lokey=101 hikey=103 lovel=65 hivel=72 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v10.wav lokey=101 hikey=103 lovel=73 hivel=80 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v11.wav lokey=101 hikey=103 lovel=81 hivel=88 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v12.wav lokey=101 hikey=103 lovel=89 hivel=96 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v13.wav lokey=101 hikey=103 lovel=97 hivel=104 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v14.wav lokey=101 hikey=103 lovel=105 hivel=112 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v15.wav lokey=101 hikey=103 lovel=113 hivel=120 pitch_keycenter=102 tune=-27 
+<region> sample=44.1khz16bit\Fs7v16.wav lokey=101 hikey=103 lovel=121 pitch_keycenter=102 tune=-27 
 <region> sample=44.1khz16bit\A7v1.wav lokey=104 hikey=106 lovel=1 hivel=26 pitch_keycenter=105 tune=-38 
 <region> sample=44.1khz16bit\A7v2.wav lokey=104 hikey=106 lovel=27 hivel=34 pitch_keycenter=105 tune=-38 
 <region> sample=44.1khz16bit\A7v3.wav lokey=104 hikey=106 lovel=35 hivel=36 pitch_keycenter=105 tune=-38 
@@ -498,91 +498,91 @@
 
 <region> sample=44.1khz16bit\harmLA0.wav lokey=20 hikey=22 lovel=45 pitch_keycenter=21 
 <region> sample=44.1khz16bit\harmLC1.wav lokey=23 hikey=25 lovel=45 pitch_keycenter=24 
-<region> sample=44.1khz16bit\harmLD#1.wav lokey=26 hikey=28 lovel=45 pitch_keycenter=27 
+<region> sample=44.1khz16bit\harmLDs1.wav lokey=26 hikey=28 lovel=45 pitch_keycenter=27 
 //========================
 <group> trigger=release volume=-4 amp_veltrack=94 rt_decay=7
 
-<region> sample=44.1khz16bit\harmLF#1.wav lokey=29 hikey=31 lovel=45 pitch_keycenter=30 
+<region> sample=44.1khz16bit\harmLFs1.wav lokey=29 hikey=31 lovel=45 pitch_keycenter=30 
 <region> sample=44.1khz16bit\harmLA1.wav lokey=32 hikey=34 lovel=45 pitch_keycenter=33 
 <region> sample=44.1khz16bit\harmLC2.wav lokey=35 hikey=37 lovel=45 pitch_keycenter=36 
 //========================
 <group> trigger=release volume=-4 amp_veltrack=90 rt_decay=8 
 
-<region> sample=44.1khz16bit\harmLD#2.wav lokey=38 hikey=40 lovel=45 pitch_keycenter=39 
-<region> sample=44.1khz16bit\harmLF#2.wav lokey=41 hikey=43 lovel=45 pitch_keycenter=42 
+<region> sample=44.1khz16bit\harmLDs2.wav lokey=38 hikey=40 lovel=45 pitch_keycenter=39 
+<region> sample=44.1khz16bit\harmLFs2.wav lokey=41 hikey=43 lovel=45 pitch_keycenter=42 
 <region> sample=44.1khz16bit\harmLA2.wav lokey=44 hikey=46 lovel=45 pitch_keycenter=45 
 <region> sample=44.1khz16bit\harmLC3.wav lokey=47 hikey=49 lovel=45 pitch_keycenter=48 
 //========================
 <group> trigger=release volume=-4 amp_veltrack=90 rt_decay=9
 
-<region> sample=44.1khz16bit\harmLD#3.wav lokey=50 hikey=52 lovel=45 pitch_keycenter=51 
-<region> sample=44.1khz16bit\harmLF#3.wav lokey=53 hikey=55 lovel=45 pitch_keycenter=54 
+<region> sample=44.1khz16bit\harmLDs3.wav lokey=50 hikey=52 lovel=45 pitch_keycenter=51 
+<region> sample=44.1khz16bit\harmLFs3.wav lokey=53 hikey=55 lovel=45 pitch_keycenter=54 
 <region> sample=44.1khz16bit\harmLA3.wav lokey=56 hikey=58 lovel=45 pitch_keycenter=57 
 <region> sample=44.1khz16bit\harmLC4.wav lokey=59 hikey=61 lovel=45
-<region> sample=44.1khz16bit\harmLD#4.wav lokey=62 hikey=64 lovel=45 pitch_keycenter=63 
-<region> sample=44.1khz16bit\harmLF#4.wav lokey=65 hikey=67 lovel=45 pitch_keycenter=66 
+<region> sample=44.1khz16bit\harmLDs4.wav lokey=62 hikey=64 lovel=45 pitch_keycenter=63 
+<region> sample=44.1khz16bit\harmLFs4.wav lokey=65 hikey=67 lovel=45 pitch_keycenter=66 
 <region> sample=44.1khz16bit\harmLA4.wav lokey=68 hikey=70 lovel=45 pitch_keycenter=69 
 <region> sample=44.1khz16bit\harmLC5.wav lokey=71 hikey=73 lovel=45 pitch_keycenter=72 
-<region> sample=44.1khz16bit\harmLD#5.wav lokey=74 hikey=76 lovel=45 pitch_keycenter=75 
-<region> sample=44.1khz16bit\harmLF#5.wav lokey=77 hikey=79 lovel=45 pitch_keycenter=78 
+<region> sample=44.1khz16bit\harmLDs5.wav lokey=74 hikey=76 lovel=45 pitch_keycenter=75 
+<region> sample=44.1khz16bit\harmLFs5.wav lokey=77 hikey=79 lovel=45 pitch_keycenter=78 
 <region> sample=44.1khz16bit\harmLA5.wav lokey=80 hikey=82 lovel=45 pitch_keycenter=81 
 <region> sample=44.1khz16bit\harmLC6.wav lokey=83 hikey=85 lovel=45 pitch_keycenter=84 
-<region> sample=44.1khz16bit\harmLD#6.wav lokey=86 hikey=88 lovel=45 pitch_keycenter=87 
+<region> sample=44.1khz16bit\harmLDs6.wav lokey=86 hikey=88 lovel=45 pitch_keycenter=87 
 //========================
 <group> trigger=release amp_veltrack=95 rt_decay=7
 
 <region> sample=44.1khz16bit\harmSA0.wav lokey=20 hikey=22 hivel=44 pitch_keycenter=21 
 <region> sample=44.1khz16bit\harmSC1.wav lokey=23 hikey=25 hivel=44 pitch_keycenter=24 
-<region> sample=44.1khz16bit\harmSD#1.wav lokey=26 hikey=28 hivel=44 pitch_keycenter=27 
-<region> sample=44.1khz16bit\harmSF#1.wav lokey=29 hikey=31 hivel=44 pitch_keycenter=30 
+<region> sample=44.1khz16bit\harmSDs1.wav lokey=26 hikey=28 hivel=44 pitch_keycenter=27 
+<region> sample=44.1khz16bit\harmSFs1.wav lokey=29 hikey=31 hivel=44 pitch_keycenter=30 
 <region> sample=44.1khz16bit\harmSA1.wav lokey=32 hikey=34 hivel=44 pitch_keycenter=33 
 <region> sample=44.1khz16bit\harmSC2.wav lokey=35 hikey=37 hivel=44 pitch_keycenter=36 
-<region> sample=44.1khz16bit\harmSD#2.wav lokey=38 hikey=40 hivel=44 pitch_keycenter=39 
-<region> sample=44.1khz16bit\harmSF#2.wav lokey=41 hikey=43 hivel=44 pitch_keycenter=42 
+<region> sample=44.1khz16bit\harmSDs2.wav lokey=38 hikey=40 hivel=44 pitch_keycenter=39 
+<region> sample=44.1khz16bit\harmSFs2.wav lokey=41 hikey=43 hivel=44 pitch_keycenter=42 
 //=======================
 <group> trigger=release amp_veltrack=90 rt_decay=7
 
 <region> sample=44.1khz16bit\harmSA2.wav lokey=44 hikey=46 hivel=44 pitch_keycenter=45 
 <region> sample=44.1khz16bit\harmSC3.wav lokey=47 hikey=49 hivel=44 pitch_keycenter=48 
-<region> sample=44.1khz16bit\harmSD#3.wav lokey=50 hikey=52 hivel=44 pitch_keycenter=51 
-<region> sample=44.1khz16bit\harmSF#3.wav lokey=53 hikey=55 hivel=44 pitch_keycenter=54 
+<region> sample=44.1khz16bit\harmSDs3.wav lokey=50 hikey=52 hivel=44 pitch_keycenter=51 
+<region> sample=44.1khz16bit\harmSFs3.wav lokey=53 hikey=55 hivel=44 pitch_keycenter=54 
 <region> sample=44.1khz16bit\harmSA3.wav lokey=56 hikey=58 hivel=44 pitch_keycenter=57 
 <region> sample=44.1khz16bit\harmSC4.wav lokey=59 hikey=61 hivel=44 
-<region> sample=44.1khz16bit\harmSD#4.wav lokey=62 hikey=64 hivel=44 pitch_keycenter=63 
-<region> sample=44.1khz16bit\harmSF#4.wav lokey=65 hikey=67 hivel=44 pitch_keycenter=66 
+<region> sample=44.1khz16bit\harmSDs4.wav lokey=62 hikey=64 hivel=44 pitch_keycenter=63 
+<region> sample=44.1khz16bit\harmSFs4.wav lokey=65 hikey=67 hivel=44 pitch_keycenter=66 
 <region> sample=44.1khz16bit\harmSA4.wav lokey=68 hikey=70 hivel=44 pitch_keycenter=69 
 <region> sample=44.1khz16bit\harmSC5.wav lokey=71 hikey=73 hivel=44 pitch_keycenter=72 
-<region> sample=44.1khz16bit\harmSD#5.wav lokey=74 hikey=76 hivel=44 pitch_keycenter=75 
-<region> sample=44.1khz16bit\harmSF#5.wav lokey=77 hikey=79 hivel=44 pitch_keycenter=78 
+<region> sample=44.1khz16bit\harmSDs5.wav lokey=74 hikey=76 hivel=44 pitch_keycenter=75 
+<region> sample=44.1khz16bit\harmSFs5.wav lokey=77 hikey=79 hivel=44 pitch_keycenter=78 
 <region> sample=44.1khz16bit\harmSA5.wav lokey=80 hikey=82 hivel=44 pitch_keycenter=81 
 <region> sample=44.1khz16bit\harmSC6.wav lokey=83 hikey=85 hivel=44 pitch_keycenter=84 
-<region> sample=44.1khz16bit\harmSD#6.wav lokey=86 hikey=88 hivel=44 pitch_keycenter=87 
+<region> sample=44.1khz16bit\harmSDs6.wav lokey=86 hikey=88 hivel=44 pitch_keycenter=87 
 //========================
 <group> trigger=release amp_veltrack=96 rt_decay=2
 
 <region> sample=44.1khz16bit\harmV3A0.wav lokey=20 hikey=22 pitch_keycenter=21 
 <region> sample=44.1khz16bit\harmV3C1.wav lokey=23 hikey=25 pitch_keycenter=24 
-<region> sample=44.1khz16bit\harmV3D#1.wav lokey=26 hikey=28 pitch_keycenter=27 
-<region> sample=44.1khz16bit\harmV3F#1.wav lokey=29 hikey=31 pitch_keycenter=30 
+<region> sample=44.1khz16bit\harmV3Ds1.wav lokey=26 hikey=28 pitch_keycenter=27 
+<region> sample=44.1khz16bit\harmV3Fs1.wav lokey=29 hikey=31 pitch_keycenter=30 
 <region> sample=44.1khz16bit\harmV3A1.wav lokey=32 hikey=34 pitch_keycenter=33 
 <region> sample=44.1khz16bit\harmV3C2.wav lokey=35 hikey=37 pitch_keycenter=36 
-<region> sample=44.1khz16bit\harmV3D#2.wav lokey=38 hikey=40 pitch_keycenter=39 
-<region> sample=44.1khz16bit\harmV3F#2.wav lokey=41 hikey=43 pitch_keycenter=42 
+<region> sample=44.1khz16bit\harmV3Ds2.wav lokey=38 hikey=40 pitch_keycenter=39 
+<region> sample=44.1khz16bit\harmV3Fs2.wav lokey=41 hikey=43 pitch_keycenter=42 
 <region> sample=44.1khz16bit\harmV3A2.wav lokey=44 hikey=46 pitch_keycenter=45 
 <region> sample=44.1khz16bit\harmV3C3.wav lokey=47 hikey=49 pitch_keycenter=48 
-<region> sample=44.1khz16bit\harmV3D#3.wav lokey=50 hikey=52 pitch_keycenter=51 
-<region> sample=44.1khz16bit\harmV3F#3.wav lokey=53 hikey=55 pitch_keycenter=54 
+<region> sample=44.1khz16bit\harmV3Ds3.wav lokey=50 hikey=52 pitch_keycenter=51 
+<region> sample=44.1khz16bit\harmV3Fs3.wav lokey=53 hikey=55 pitch_keycenter=54 
 <region> sample=44.1khz16bit\harmV3A3.wav lokey=56 hikey=58 pitch_keycenter=57 
 <region> sample=44.1khz16bit\harmV3C4.wav lokey=59 hikey=61 
-<region> sample=44.1khz16bit\harmV3D#4.wav lokey=62 hikey=64 pitch_keycenter=63 
-<region> sample=44.1khz16bit\harmV3F#4.wav lokey=65 hikey=67 pitch_keycenter=66 
+<region> sample=44.1khz16bit\harmV3Ds4.wav lokey=62 hikey=64 pitch_keycenter=63 
+<region> sample=44.1khz16bit\harmV3Fs4.wav lokey=65 hikey=67 pitch_keycenter=66 
 <region> sample=44.1khz16bit\harmV3A4.wav lokey=68 hikey=70 pitch_keycenter=69 
 <region> sample=44.1khz16bit\harmV3C5.wav lokey=71 hikey=73 pitch_keycenter=72 
-<region> sample=44.1khz16bit\harmV3D#5.wav lokey=74 hikey=76 pitch_keycenter=75 
-<region> sample=44.1khz16bit\harmV3F#5.wav lokey=77 hikey=79 pitch_keycenter=78 
+<region> sample=44.1khz16bit\harmV3Ds5.wav lokey=74 hikey=76 pitch_keycenter=75 
+<region> sample=44.1khz16bit\harmV3Fs5.wav lokey=77 hikey=79 pitch_keycenter=78 
 <region> sample=44.1khz16bit\harmV3A5.wav lokey=80 hikey=82 pitch_keycenter=81 
 <region> sample=44.1khz16bit\harmV3C6.wav lokey=83 hikey=85 pitch_keycenter=84 
-<region> sample=44.1khz16bit\harmV3D#6.wav lokey=86 hikey=88 pitch_keycenter=87 
+<region> sample=44.1khz16bit\harmV3Ds6.wav lokey=86 hikey=88 pitch_keycenter=87 
 //======================
 //HammerNoise
 <group> trigger=release pitch_keytrack=0 volume=-37 amp_veltrack=82 rt_decay=2
