@@ -25,7 +25,17 @@ let audioCtx = null;
         let regionesSFZ = [];
 
         (async function inicio() {
+            audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+            // Crear nodo de ganancia para el volumen 
+            gainNode = audioCtx.createGain();
+            gainNode.gain.value = VolumenGlobal;
+            gainNode.connect(audioCtx.destination);
+
+            
             regionesSFZ = await cargarSFZ();
+
+            await precargarAudio();
+            document.getElementById("pantalla-carga").classList.add("oculta");
             console.log("SFZ cargado, listo para tocar");
         })();
 
@@ -35,6 +45,14 @@ let audioCtx = null;
             console.log("Contenido del SFZ:", textoSFZ);
             return parsearSFZ(textoSFZ);
         } 
+
+        async function precargarAudio() {
+            for (const region of regionesSFZ) {
+                await loadAudioBuffer(region.sample);
+                console.log("Audio precargado para muestra:", region.sample);
+            }
+        }
+
 
         function parsearSFZ(texto) {
             const regiones = [];
@@ -67,14 +85,7 @@ let audioCtx = null;
 
 
         document.addEventListener('keydown', function(evento) {
-        if (!audioCtx) {
-                audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-                // Crear nodo de ganancia para el volumen 
-                gainNode = audioCtx.createGain();
-                gainNode.gain.value = VolumenGlobal;
-                gainNode.connect(audioCtx.destination)
                 
-        }
         if (evento.repeat){
             return;
             }

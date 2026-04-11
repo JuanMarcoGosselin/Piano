@@ -9,6 +9,15 @@
     <title>Piano</title>
 </head>
 <body>
+    <div id="pantalla-carga"> 
+        <svg class="trazo" width="100" height="200" viewBox="0 0 100 200">
+        <ellipse class="cabeza" cx="50" cy="150" rx="12" ry="8" transform="rotate(-20, 50, 150) rotate(0, 50, 150)" fill="none" stroke="#555" stroke-width="4"/>
+        <line class ="plica" x1="62" y1="150" x2="62" y2="51" stroke="#555" stroke-width="3.4"/>
+        <path class = "corchete" d="M 62 50 C 90 60, 85 80, 70 90" fill="none" stroke="#555" stroke-width="4" stroke-linecap="round"/>
+    </svg>
+    </div>
+    
+
     <main>
        
         <section>
@@ -86,6 +95,5 @@
     </script>
     <script src="js/js.js"></script>
     <script src="js/perillaVolumen.js"></script>
-    <script src="js/cambioOctavas.js"></script>
 </body>
 </html>
