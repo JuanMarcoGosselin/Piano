@@ -33,7 +33,7 @@ let audioCtx = null;
 
             
             regionesSFZ = await cargarSFZ();
-
+            await new Promise(resolve => setTimeout(resolve, 5000));
             await precargarAudio();
             document.getElementById("pantalla-carga").classList.add("oculta");
             console.log("SFZ cargado, listo para tocar");
